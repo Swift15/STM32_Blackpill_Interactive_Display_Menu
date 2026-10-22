@@ -26,3 +26,6 @@ This little project shows how to use an STM32 with an OLED Display working with 
 
 5 - add keyboard 
 
+6 - test keyboard 
+
+7 - add menu functions
