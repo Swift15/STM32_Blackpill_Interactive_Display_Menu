@@ -6,7 +6,7 @@ this little project show how to create a interactive menu using stm32, lcd1306 w
 
 
 
-!\[Under Construction](https://img.shields.io/badge/status-under--construction-yellow)
+![Under Construction](https://img.shields.io/badge/status-under--construction-yellow)
 
 
 
